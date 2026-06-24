@@ -24,7 +24,16 @@ import { LineChart } from "lucide-react";
 //      Formato de cada objeto:  { titulo: "Mi grafica", url: "/graficas/mi_imagen.png" }
 //      Empieza vacia a proposito: aqui NO hay ninguna grafica precargada.
 const GRAFICAS = [
-  // { titulo: "Ejemplo", url: "/graficas/ejemplo.png" },
+  { titulo: "Grafica 1 - Cantidad de usuarios por nombre", url: "/graficas/grafica1.png" },
+  { titulo: "Grafica 2 - Edad promedio por correo", url: "/graficas/grafica2.png" },
+  { titulo: "Grafica 3 - Suma de edades de usuarios jovenes por nombre", url: "/graficas/grafica3.png" },
+  { titulo: "Grafica 4 - Cantidad de usuarios por edad", url: "/graficas/grafica4.png" },
+  { titulo: "Grafica 5 - Resumen por nombre", url: "/graficas/grafica5.png" },
+  { titulo: "Grafica 6 - Total gastado por descripcion", url: "/graficas/grafica6.png" },
+  { titulo: "Grafica 7 - Promedio de gasto por descripcion", url: "/graficas/grafica7.png" },
+  { titulo: "Grafica 8 - Cantidad de gastos por usuario", url: "/graficas/grafica8.png" },
+  { titulo: "Grafica 9 - Gastos grandes por descripcion", url: "/graficas/grafica9.png" },
+  { titulo: "Grafica 10 - Resumen por descripcion", url: "/graficas/grafica10.png" },
 ];
 
 
